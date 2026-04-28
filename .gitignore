@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Claude Code
+.claude/
+
+# Node (caso use npx serve ou similar)
+node_modules/
+npm-debug.log*
+
+# Env
+.env
+.env.local
+
+# Build output (se adicionar build futuramente)
+dist/
+build/
