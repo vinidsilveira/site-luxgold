@@ -11,6 +11,7 @@ desktop.ini
 
 # Claude Code
 .claude/
+CLAUDE.md
 
 # Node (caso use npx serve ou similar)
 node_modules/
